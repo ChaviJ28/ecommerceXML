@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product id="0">
+        <name>Hp Pavillion laptop</name>
+        <description>Plunge into the incredible world of gaming with the HP Pavilion 15.6" gaming laptop. The AMD Ryzen 5 5600H processor and 8GB of RAM fuel high-speed performance required for multitasking and gaming. Thanks to NVIDIA GeForce GTX 1650 graphics card, you can enjoy realistic visuals that takes your gaming experience to the next level.</description>
+        <category>Gaming</category>
+        <stock>20</stock>
+        <price>50000</price>
+        <images>
+            <image>https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1468&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1420&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80</image>
+        </images>
+    </product>
+    <product id="1">
+        <name>Samsung S10</name>
+        <description>Plunge into the incredible world of Mobile with the HP Pavilion 15.6" gaming laptop. The AMD Ryzen 5 5600H processor and 8GB of RAM fuel high-speed performance required for multitasking and gaming. Thanks to NVIDIA GeForce GTX 1650 graphics card, you can enjoy realistic visuals that takes your gaming experience to the next level.</description>
+        <category>Laptops &amp; Computers</category>
+        <stock>30</stock>
+        <price>40000</price>
+        <images>
+            <image>https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1468&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1420&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80</image>
+        </images>
+    </product>
+    <product id="2">
+        <name>Hp Pavillion laptop</name>
+        <description>Plunge into the incredible world of gaming with the HP Pavilion 15.6" gaming laptop. The AMD Ryzen 5 5600H processor and 8GB of RAM fuel high-speed performance required for multitasking and gaming. Thanks to NVIDIA GeForce GTX 1650 graphics card, you can enjoy realistic visuals that takes your gaming experience to the next level.</description>
+        <category>Gaming</category>
+        <stock>20</stock>
+        <price>50000</price>
+        <images>
+            <image>https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1468&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1420&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80</image>
+        </images>
+    </product>
+    <product id="3">
+        <name>Samsung S10</name>
+        <description>Plunge into the incredible world of Mobile with the HP Pavilion 15.6" gaming laptop. The AMD Ryzen 5 5600H processor and 8GB of RAM fuel high-speed performance required for multitasking and gaming. Thanks to NVIDIA GeForce GTX 1650 graphics card, you can enjoy realistic visuals that takes your gaming experience to the next level.</description>
+        <category>Laptops &amp; Computers</category>
+        <stock>30</stock>
+        <price>40000</price>
+        <images>
+            <image>https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1468&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1420&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80</image>
+        </images>
+    </product>
+    <product id="4">
+        <name>Hp Pavillion laptop</name>
+        <description>Plunge into the incredible world of gaming with the HP Pavilion 15.6" gaming laptop. The AMD Ryzen 5 5600H processor and 8GB of RAM fuel high-speed performance required for multitasking and gaming. Thanks to NVIDIA GeForce GTX 1650 graphics card, you can enjoy realistic visuals that takes your gaming experience to the next level.</description>
+        <category>Gaming</category>
+        <stock>20</stock>
+        <price>50000</price>
+        <images>
+            <image>https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1468&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1420&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80</image>
+        </images>
+    </product>
+    <product id="5">
+        <name>Samsung S10</name>
+        <description>Plunge into the incredible world of Mobile with the HP Pavilion 15.6" gaming laptop. The AMD Ryzen 5 5600H processor and 8GB of RAM fuel high-speed performance required for multitasking and gaming. Thanks to NVIDIA GeForce GTX 1650 graphics card, you can enjoy realistic visuals that takes your gaming experience to the next level.</description>
+        <category>Laptops &amp; Computers</category>
+        <stock>30</stock>
+        <price>40000</price>
+        <images>
+            <image>https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1468&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1420&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80</image>
+        </images>
+    </product>
+    <product id="6">
+        <name>Hp Pavillion laptop</name>
+        <description>Plunge into the incredible world of gaming with the HP Pavilion 15.6" gaming laptop. The AMD Ryzen 5 5600H processor and 8GB of RAM fuel high-speed performance required for multitasking and gaming. Thanks to NVIDIA GeForce GTX 1650 graphics card, you can enjoy realistic visuals that takes your gaming experience to the next level.</description>
+        <category>Gaming</category>
+        <stock>20</stock>
+        <price>50000</price>
+        <images>
+            <image>https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1468&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1420&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80</image>
+        </images>
+    </product>
+    <product id="7">
+        <name>Samsung S10</name>
+        <description>Plunge into the incredible world of Mobile with the HP Pavilion 15.6" gaming laptop. The AMD Ryzen 5 5600H processor and 8GB of RAM fuel high-speed performance required for multitasking and gaming. Thanks to NVIDIA GeForce GTX 1650 graphics card, you can enjoy realistic visuals that takes your gaming experience to the next level.</description>
+        <category>Laptops &amp; Computers</category>
+        <stock>30</stock>
+        <price>40000</price>
+        <images>
+            <image>https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1468&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1420&amp;q=80</image>
+            <image>https://images.unsplash.com/photo-1593642702821-c8da6771f0c6?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1632&amp;q=80</image>
+        </images>
+    </product>
+</products>
