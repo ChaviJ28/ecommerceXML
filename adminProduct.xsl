@@ -9,6 +9,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
         <title>TechNeva</title>
         <script src="https://cdn.tailwindcss.com?plugins=aspect-ratio,forms"></script>
+       
         <link rel="stylesheet" href="assets/css/index.css"/>
         <link rel="stylesheet" href="assets/css/sidecart.css "/>
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
@@ -16,7 +17,16 @@
 
 <body>
 
+
+
 <section style="min-height: 80vh;" class=" mt-10">
+
+<form>
+<h1>Search</h1>
+<input type="text" size="50" onKeyUp="showResult(this.value)"/>
+<div id="livesearch"></div>
+</form>
+
 <button onclick='location.href="/ecommerce/addProduct.php"' class="btnPos flex items-center mt-4 px-3 py-2 bg-indigo-800 text-white text-sm uppercase font-medium rounded hover:bg-indigo-600 focus:outline-none focus:bg-indigo-500">
                         Add Product</button>
 <table class="mx-auto  table p-8 bg-white shadow rounded-lg">
@@ -87,6 +97,8 @@
 </table>
 </section>
 </body>
+
+ <script src="assets/js/ajax_functions.js"></script>
 </html>
 </xsl:template>
 </xsl:stylesheet>
