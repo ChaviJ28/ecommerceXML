@@ -22,10 +22,18 @@
 <section style="min-height: 80vh;" class=" mt-10">
 
 <form>
-<h1>Search</h1>
-<input type="text" size="50" onKeyUp="showResult(this.value)"/>
-<div id="livesearch"></div>
-</form>
+<div id="search" class="my-12">
+    <div class="relative mt-6 w-11/12 sm:max-w-lg mx-auto">
+        <span class="relative inset-y-0 top-9 left-0 pl-3 flex items-center">
+            <svg class="h-5 w-5 text-gray-500" viewBox="0 0 24 24" fill="none">
+                <path d="M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </span>
+
+        <input id="searchBar" onKeyUp="showResult(this.value)" class="border-gray-200 shadow-md focus:border-blue-300 focus:ring focus:ring-indigo-700 focus:ring-opacity-50" type="text" placeholder="Search"/>
+        <div id="livesearch"></div>
+    </div>
+</div></form>
 
 <button onclick='location.href="/ecommerce/addProduct.php"' class="btnPos flex items-center mt-4 px-3 py-2 bg-indigo-800 text-white text-sm uppercase font-medium rounded hover:bg-indigo-600 focus:outline-none focus:bg-indigo-500">
                         Add Product</button>
