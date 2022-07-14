@@ -1,8 +1,8 @@
 <?php
-
+$url_id = $_GET['id'];
 $xmlFile="assets/xml_data/products.xml";
 $xsdFile="assets/xsd/products.xsd";
-$xslFile="/adminProduct.xsl";
+$xslFile="/product.xsl";
  $xml_Doc = new DOMDocument();
  $xml_Doc->load('assets/xml_data/products.xml');
  if(!$xml_Doc->schemaValidate('assets/xsd/product.xsd'))
@@ -10,10 +10,12 @@ $xslFile="/adminProduct.xsl";
  else
  {
     $xsl = new DOMDocument();
-    $xsl->load('./adminProduct.xsl');
-
+    $xsl->load('./product.xsl');
+    
     $proc = new XSLTProcessor;
     $proc->importStylesheet($xsl);
     echo $proc->transformToXml($xml_Doc);
+
+
  }
 ?>

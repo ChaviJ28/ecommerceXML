@@ -35,7 +35,7 @@
     </div>
 </div></form>
 
-<button onclick='location.href="/ecommerce/addProduct.php"' class="btnPos flex items-center mt-4 px-3 py-2 bg-indigo-800 text-white text-sm uppercase font-medium rounded hover:bg-indigo-600 focus:outline-none focus:bg-indigo-500">
+<button onclick='location.href="/ecommerceXML/addProduct.php"' class="btnPos flex items-center mt-4 px-3 py-2 bg-indigo-800 text-white text-sm uppercase font-medium rounded hover:bg-indigo-600 focus:outline-none focus:bg-indigo-500">
                         Add Product</button>
 <table class="mx-auto  table p-8 bg-white shadow rounded-lg">
     <thead>
@@ -81,21 +81,21 @@
                         <td class="border-b-2 p-8 dark:border-dark-5">
                         <a>
                         <xsl:attribute name="href">
-                            <xsl:value-of select="concat('/ecommerce/product.php?id=', @id)"/>
+                            <xsl:value-of select="concat('/ecommerceXML/product.php?id=', @id)"/>
                         </xsl:attribute>
                         <i class="material-icons">remove_red_eye</i></a>
                         </td>
                         <td class="border-b-2 p-8 dark:border-dark-5">
                         <a>
                         <xsl:attribute name="href">
-                            <xsl:value-of select="concat('/ecommerce/editProduct.php?id=', @id)"/>
+                            <xsl:value-of select="concat('/ecommerceXML/editProduct.php?id=', @id)"/>
                         </xsl:attribute>
                         <i class="material-icons">create</i></a>
                         </td>
                         <td class="border-b-2 p-8 dark:border-dark-5">
                         <a>
                         <xsl:attribute name="href">
-                            <xsl:value-of select="concat('/ecommerce/delProduct.php?id=', @id)"/>
+                            <xsl:value-of select="concat('/ecommerceXML/delProduct.php?id=', @id)"/>
                         </xsl:attribute>
                         <i class="material-icons">delete</i></a>
                         </td>
